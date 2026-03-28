@@ -8,6 +8,8 @@
 body {
     background-color: black;
     text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .link1 {
     color: Aquamarine;
@@ -26,4 +28,15 @@ body {
 }
 .heading3 {
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+.info {
+    color: grey;
+    font-size: 21px;
+}
+.copy {
+    text-align: right;
+    color: grey;
+    font-size: 21px;
 }
